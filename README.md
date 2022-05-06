@@ -6,3 +6,5 @@
  This program only use single thread so it can only test single core performance.
  
  There are 3 different algorithms to cross check the result.
+ 
+ All results will be stored into different .txt files for further use.
